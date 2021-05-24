@@ -25,11 +25,17 @@ ion-item {
   ion-chip {
     padding-inline: 3px;
 
-    ion-label {
-      font-size: 0.8rem;
-      font-weight: bold;
-      // padding: 3px 3px;
-    }
+    // ion-label {
+    //   font-size: 0.8rem;
+    //   font-weight: bold;
+    //   // padding: 3px 3px;
+    // }
+  }
+
+  ion-badge {
+    font-weight: 300;
+    font-size: 0.6rem;
+    margin-right: 2px;
   }
 }
 
