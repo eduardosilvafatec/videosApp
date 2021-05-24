@@ -44,6 +44,24 @@ export class Tab1Page {
       generos: ['Drama'],
       pagina: '/good-doctor',
     },
+    {
+      nome: 'Fear the Walking Dead',
+      lancamento: '01/01/2015',
+      duracao: '43m',
+      classificacao: 76,
+      cartaz:
+        'https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tbgPaIEZa9BuKKESdyapOn0CZh6.jpg',
+      generos: ['Ação', 'Aventura', 'Drama'],
+    },
+    {
+      nome: 'Expresso do Amanhã',
+      lancamento: '30/07/2015',
+      duracao: '2h 6m',
+      classificacao: 69,
+      cartaz:
+        'https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9rtJNrpDuxHJiRormrY5S3GXwEu.jpg',
+      generos: ['Ação', 'Ficção Científica', 'Drama'],
+    },
   ];
 
   constructor(
